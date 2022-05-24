@@ -52,8 +52,8 @@ var Projects = () => {
                     : {project.Description}
                   </p>
                   <p>
-                    <span className="project-title-highlight">Tech Stack</span>: 
-                    {project.Tech_Stack}
+                    <span className="project-title-highlight">Tech Stack</span>
+                    : {project.Tech_Stack}
                   </p>
                   <div className="text-center">
                     <a target="_blank" rel="noreferrer" href={project.Link}>
