@@ -52,7 +52,7 @@ var Projects = () => {
                     : {project.Description}
                   </p>
                   <p>
-                    <span className="project-title-highlight">Tech Stack </span>:
+                    <span className="project-title-highlight">Tech Stack</span>: 
                     {project.Tech_Stack}
                   </p>
                   <div className="text-center">
